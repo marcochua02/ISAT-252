@@ -1,16 +1,8 @@
-Buy our product
-
-New Iphone 13
-Apple Watch 7
-Ipad Mini
-
-$1000
+ISAT 252
 
 
-Apple is expensive
+Programming and Coding Learning Goal - To becoe more comfortable with programming and coding, maake a game
 
-Apple is overpriced
+Potential Challenges - Staying on a plan and knowing where to start
 
-Yet I still buy it
-
-
+Language - Python -Free Code Camp- https://www.freecodecamp.org/
